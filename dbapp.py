@@ -139,7 +139,7 @@ def home():
 
     output = []
 
-# [(1, 42762, 'vital', 'vital', 'k', 'sha256$IS3Kw0dI$7c93a652bba19d133db37b10c0e21ae26e2234a45843625341f3638392b9538b', 'vital@gmail.com')]
+# [(1, 42762, 'djddj2', 'name', 'k', 'sha256$IS3Kw0dI$7c93a652bba19d133db37b10c0e21ae26e2234a45843625341f3638392b9538b', 'xvvxyx@gmail.com')]
 
     for user in users :
         home = {}
